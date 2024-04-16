@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.pem
+test.yaml
 
 # C extensions
 *.so
