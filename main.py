@@ -44,7 +44,7 @@ class LoanPrediction(BaseModel):
 def index():
     return {
         "message": "🚀 Welcome to the Loan Pred App API 📊",
-        "description": "This API is powered by FastAPI and integrated with CI/CD using Jenkins."
+        "description": "This API is powered by FastAPI and integrated with CI/CD using Jenkins. Hope this shit works"
     }
 
 
